@@ -1,9 +1,9 @@
 package gomod1
 
 import (
-	"github.com/peanutgyz/gomodmain/mod"
+	"fmt"
 )
 
 func Gomod1Func() {
-	mod.Func()
+	fmt.Println("hello")
 }
