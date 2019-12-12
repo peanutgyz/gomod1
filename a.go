@@ -5,5 +5,5 @@ import (
 )
 
 func Gomod1Func() {
-	fmt.Println("hello")
+	fmt.Println("call Gomod1Func")
 }
